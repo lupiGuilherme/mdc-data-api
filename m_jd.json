@@ -1,0 +1,934 @@
+[
+    {
+        "m": "GENÉRICA",
+        "t": "c"
+    },
+    {
+        "m": "Remessa NTP",
+        "t": "c"
+    },
+    {
+        "m": "RETORNO-2ºGRAU-INCONSISTÊNCIAS",
+        "t": "c"
+    },
+    {
+        "m": "CONCLUSÃO-SUSPENSÃO",
+        "t": "c"
+    },
+    {
+        "m": "Abertura Chamado_ERRO-PJE",
+        "t": "c"
+    },
+    {
+        "m": "Abertura Chamado_REMESSA",
+        "t": "c"
+    },
+    {
+        "m": "ANULAÇÃO",
+        "t": "c"
+    },
+    {
+        "m": "Apelação_ sem julg mérito_Concluso",
+        "t": "c"
+    },
+    {
+        "m": "APENSAMENTO",
+        "t": "c"
+    },
+    {
+        "m": "AR_COM_RECEBIMENTO",
+        "t": "c"
+    },
+    {
+        "m": "AR_Extravio",
+        "t": "c"
+    },
+    {
+        "m": "AR_Extravio_Expedição",
+        "t": "c"
+    },
+    {
+        "m": "AR_SEM_RECEBIMENTO",
+        "t": "c"
+    },
+    {
+        "m": "ARQDEFINITVO_PC03_SERPREC/RPV",
+        "t": "c"
+    },
+    {
+        "m": "Ausência de Conta_ Alvará_Conclusão",
+        "t": "c"
+    },
+    {
+        "m": "Ausência ID BacenJud_Conclusão",
+        "t": "c"
+    },
+    {
+        "m": "AUSÊNCIA_ADV_CUMP_SENTENÇA",
+        "t": "c"
+    },
+    {
+        "m": "Ausência_Manifestação",
+        "t": "c"
+    },
+    {
+        "m": "ausência_resposta_CNIB_SISTEMAS",
+        "t": "c"
+    },
+    {
+        "m": "Aut.Cod.de Barras_Alvará",
+        "t": "c"
+    },
+    {
+        "m": "AUTOMACAO",
+        "t": "c"
+    },
+    {
+        "m": "Blindagem_RECJUD",
+        "t": "c"
+    },
+    {
+        "m": "Com_Int.Agravo",
+        "t": "c"
+    },
+    {
+        "m": "CONCLUSÃO_AGRAVO-APRESENT",
+        "t": "c"
+    },
+    {
+        "m": "CONCLUSÃO_CANCEL-INDEVIDO",
+        "t": "c"
+    },
+    {
+        "m": "CONCLUSÃO_DESIGNAR_AUD_334",
+        "t": "c"
+    },
+    {
+        "m": "CONCLUSÃO_FALTA-DADOS-ALVARÁ",
+        "t": "c"
+    },
+    {
+        "m": "Conclusão_PC29/19",
+        "t": "c"
+    },
+    {
+        "m": "CONCLUSÃO_PRAZO-DILAÇÃO-EDITAL",
+        "t": "c"
+    },
+    {
+        "m": "CONCLUSÃO_VINCULAÇÃO-PENDENTE-90DIAS",
+        "t": "c"
+    },
+    {
+        "m": "DECURSO-AR-PESSOA-DIVERSA",
+        "t": "c"
+    },
+    {
+        "m": "Decurso_PAG-INTEGRALIDADE_BAAF",
+        "t": "c"
+    },
+    {
+        "m": "DECURSO_Prazo-AMBAS AS PARTES",
+        "t": "c"
+    },
+    {
+        "m": "DECURSO_Prazo-AUTOR",
+        "t": "c"
+    },
+    {
+        "m": "DECURSO_Prazo-CIÊNCIA-CITAÇÃO-DOMICÍLIO",
+        "t": "c"
+    },
+    {
+        "m": "DECURSO_Prazo-Citação_DESPEJO",
+        "t": "c"
+    },
+    {
+        "m": "DECURSO_Prazo-Contestação",
+        "t": "c"
+    },
+    {
+        "m": "DECURSO_Prazo-Edital",
+        "t": "c"
+    },
+    {
+        "m": "DECURSO_Prazo-IMPUG_Cump_Sent",
+        "t": "c"
+    },
+    {
+        "m": "DECURSO_Prazo-Int_PESSOAL E DJEN",
+        "t": "c"
+    },
+    {
+        "m": "DECURSO_Prazo-MONITÓRIA",
+        "t": "c"
+    },
+    {
+        "m": "DECURSO_Prazo-PGTO e IMPUG_Cump_Sent",
+        "t": "c"
+    },
+    {
+        "m": "DECURSO_Prazo-PGTO-EXEC-TIT-EXTRA",
+        "t": "c"
+    },
+    {
+        "m": "DECURSO_Prazo-PGTO_Cump_Sent",
+        "t": "c"
+    },
+    {
+        "m": "DECURSO_Prazo-Purga_Contest_BAAF",
+        "t": "c"
+    },
+    {
+        "m": "DECURSO_Prazo-RÉU",
+        "t": "c"
+    },
+    {
+        "m": "DECURSO_Prazo_Contrarrazões_Apelação",
+        "t": "c"
+    },
+    {
+        "m": "DECURSO_Prazo_Contrarrazões_EmbargosDeclaração",
+        "t": "c"
+    },
+    {
+        "m": "DETERMINAÇÃO-JUNTADA-AR",
+        "t": "c"
+    },
+    {
+        "m": "DILIGÊNCIAS-FRUSTRADAS",
+        "t": "c"
+    },
+    {
+        "m": "DISTRIBUIÇÃO",
+        "t": "c"
+    },
+    {
+        "m": "DISTRIBUIÇÃO_PRECATÓRIA",
+        "t": "c"
+    },
+    {
+        "m": "DIVERSA_Prática_Judírica",
+        "t": "c"
+    },
+    {
+        "m": "DIVERSAS-ADVOGADO_VALIDAR-PROC_ALVARÁ",
+        "t": "c"
+    },
+    {
+        "m": "DIVERSAS-OBJETO E PÉ",
+        "t": "c"
+    },
+    {
+        "m": "DIVERSAS-VETE_Art.828",
+        "t": "c"
+    },
+    {
+        "m": "DIVERSAS_Art.517",
+        "t": "c"
+    },
+    {
+        "m": "DIVERSAS_Narrativa",
+        "t": "c"
+    },
+    {
+        "m": "DIVERSAS_PedidoAdvogado",
+        "t": "c"
+    },
+    {
+        "m": "EMBARGOS_Declaração-INTEMPESTIVO",
+        "t": "c"
+    },
+    {
+        "m": "EMBARGOS_Declaração-INTEMPESTIVO-ART.1000",
+        "t": "c"
+    },
+    {
+        "m": "EMBARGOS_Declaração-TEMPESTIVO",
+        "t": "c"
+    },
+    {
+        "m": "ENVIO_ALVARÁ_BB_MALOTE_DIGITAL",
+        "t": "c"
+    },
+    {
+        "m": "ENVIO_FORA_DE_ORDEM-JUSTIÇA-FEDERAL",
+        "t": "c"
+    },
+    {
+        "m": "ENVIO_MALOTE_DIGITAL",
+        "t": "c"
+    },
+    {
+        "m": "ENVIO_MALOTE_PRECATÓRIA",
+        "t": "c"
+    },
+    {
+        "m": "falha_comunicacao_domicilio_jud_elet",
+        "t": "c"
+    },
+    {
+        "m": "FINAL-ARQ-CANCEL_DISTR-ART.290",
+        "t": "c"
+    },
+    {
+        "m": "FINAL-ARQ-DEFINITIVO",
+        "t": "c"
+    },
+    {
+        "m": "FINAL-ARQ_PORTARIA-CONJUNTA-29/2019",
+        "t": "c"
+    },
+    {
+        "m": "FINAL-AUSÊNCIA-CONDENAÇÃO-CUSTAS",
+        "t": "c"
+    },
+    {
+        "m": "FINAL-CUSTAS-NÃO-PAG",
+        "t": "c"
+    },
+    {
+        "m": "FINAL-CUSTAS-PAG",
+        "t": "c"
+    },
+    {
+        "m": "FINAL-CUSTAS_PAG+ARQ",
+        "t": "c"
+    },
+    {
+        "m": "FINAL-GRATUIDADE+ARQ",
+        "t": "c"
+    },
+    {
+        "m": "Folhas_nos_Autos",
+        "t": "c"
+    },
+    {
+        "m": "Habilitação de Crédito",
+        "t": "c"
+    },
+    {
+        "m": "Indicação-Perito_Conclusão",
+        "t": "c"
+    },
+    {
+        "m": "INTERPOSIÇÃO-AGRAV",
+        "t": "c"
+    },
+    {
+        "m": "INTIMAÇÃO_AGRAVO",
+        "t": "c"
+    },
+    {
+        "m": "Juntada_DARJ",
+        "t": "c"
+    },
+    {
+        "m": "JUNTADA_MALOTE_DIGITAL",
+        "t": "c"
+    },
+    {
+        "m": "JUNTADA_MALOTE_DIGITAL-AUTOMAÇÃO",
+        "t": "c"
+    },
+    {
+        "m": "MP-impossibilidade-intimação-SFH",
+        "t": "c"
+    },
+    {
+        "m": "Não realização AUDIÊNCIA",
+        "t": "c"
+    },
+    {
+        "m": "NÃO-INTERPOSIÇÃO-AGRAV",
+        "t": "c"
+    },
+    {
+        "m": "OFÍCIO-IMPOSSIBILIDADE_JUNTADA",
+        "t": "c"
+    },
+    {
+        "m": "OFÍCIO_JUNTADA-DESTINO",
+        "t": "c"
+    },
+    {
+        "m": "OFÍCIO_JUNTADA-ORIGEM",
+        "t": "c"
+    },
+    {
+        "m": "PERÍCIA_ Pendência_PGTO_PERITO",
+        "t": "c"
+    },
+    {
+        "m": "PERÍCIA_Protocolo_Pagamento-SEI",
+        "t": "c"
+    },
+    {
+        "m": "PRAZO-DECURSO_PRESUMIDAMENTE",
+        "t": "c"
+    },
+    {
+        "m": "PRAZO-EM-CURSO_PRESUMIDAMENTE",
+        "t": "c"
+    },
+    {
+        "m": "PUBLICAÇÃO_ATOS",
+        "t": "c"
+    },
+    {
+        "m": "Rec Jud_Objeção PRJ",
+        "t": "c"
+    },
+    {
+        "m": "RECEBIMENTO_AGRAVO",
+        "t": "c"
+    },
+    {
+        "m": "RECEBIMENTO_APELAÇÃO",
+        "t": "c"
+    },
+    {
+        "m": "RECJUD_1ºEDITAL",
+        "t": "c"
+    },
+    {
+        "m": "RECJUD_2ºEDITAL",
+        "t": "c"
+    },
+    {
+        "m": "REDISTRIBUIÇÃO-JUSTIÇA-FEDERAL(TRF5)",
+        "t": "c"
+    },
+    {
+        "m": "RETIFICAÇÃO-ADV_RECUPER+ADM_JUD+MP",
+        "t": "c"
+    },
+    {
+        "m": "RETIFICAÇÃO-CLASS_DIFERE-DETERMINAÇÃO",
+        "t": "c"
+    },
+    {
+        "m": "RETIFICAÇÃO-CLASSE PROCESSUAL",
+        "t": "c"
+    },
+    {
+        "m": "RETIFICAÇÃO-CUMPRIMENTO_DE_SENTENÇA-PGE",
+        "t": "c"
+    },
+    {
+        "m": "RETIFICAÇÃO-ENDEREÇO_PARTE",
+        "t": "c"
+    },
+    {
+        "m": "RETIFICAÇÃO-EVOLUÇÃO_CLASSE",
+        "t": "c"
+    },
+    {
+        "m": "RETIFICAÇÃO-GRATUIDADE PROCESSUAL",
+        "t": "c"
+    },
+    {
+        "m": "RETIFICAÇÃO-HABILITAÇÃO ADVOGADO",
+        "t": "c"
+    },
+    {
+        "m": "RETIFICAÇÃO-HABILITAÇÃO MP",
+        "t": "c"
+    },
+    {
+        "m": "RETIFICAÇÃO-HABILITAÇÃO PARTE",
+        "t": "c"
+    },
+    {
+        "m": "RETIFICAÇÃO-INCL/EXCL_ADVOGADO",
+        "t": "c"
+    },
+    {
+        "m": "RETIFICAÇÃO-MUDANÇA-DE-FLUXO",
+        "t": "c"
+    },
+    {
+        "m": "RETIFICAÇÃO-PERITO",
+        "t": "c"
+    },
+    {
+        "m": "RETIFICAÇÃO-PRIORIDADE PROCESSUAL",
+        "t": "c"
+    },
+    {
+        "m": "RETIFICAÇÃO-RETIRADA ADVOGADO",
+        "t": "c"
+    },
+    {
+        "m": "RETIFICAÇÃO-RETIRADA SIGILO",
+        "t": "c"
+    },
+    {
+        "m": "RETIFICAÇÃO-VAL_DA_CAUSA+EVOL_CLASSE",
+        "t": "c"
+    },
+    {
+        "m": "RETIFICAÇÃO-VALOR DA CAUSA",
+        "t": "c"
+    },
+    {
+        "m": "RETIFICAÇÃO-VALOR_CAUSA-CUSTAS_COMP",
+        "t": "c"
+    },
+    {
+        "m": "RETIFICAÇÃO_DEFENSORIA_PÚBLICA",
+        "t": "c"
+    },
+    {
+        "m": "Retirada_Mídia_Chaves_Doc Original",
+        "t": "c"
+    },
+    {
+        "m": "SEI-CENTRAL-AGILIZACAO",
+        "t": "c"
+    },
+    {
+        "m": "Sem_Int.Agravo",
+        "t": "c"
+    },
+    {
+        "m": "SERPREC_após informações_validação_IN16/2025",
+        "t": "c"
+    },
+    {
+        "m": "SERPREC_ausência_doc",
+        "t": "c"
+    },
+    {
+        "m": "SERPREC_CONCLUSÃO-FALTA-DE-DADOS_DECISÃO",
+        "t": "c"
+    },
+    {
+        "m": "SERPREC_FINALIZAÇÃO DE CADASTRO",
+        "t": "c"
+    },
+    {
+        "m": "SERPREC_INTIMACAO_PARTES_REQUISICAO",
+        "t": "c"
+    },
+    {
+        "m": "SERPREC_JUNTADA_MINUTA_REQUISICAO",
+        "t": "c"
+    },
+    {
+        "m": "SERPREC_REQUISICAO_AUTUADA",
+        "t": "c"
+    },
+    {
+        "m": "SISCOND -Novo em:04/06/2025_084645985",
+        "t": "c"
+    },
+    {
+        "m": "SISCOND -Novo em:04/06/2025_084923386",
+        "t": "c"
+    },
+    {
+        "m": "SISCONDJ--GRAVAÇÃO",
+        "t": "c"
+    },
+    {
+        "m": "SISCONDJ--GRAVAÇÃO-CONTA_MIGRADA",
+        "t": "c"
+    },
+    {
+        "m": "SISCONDJ--NOVO_DEPÓSITO_JUDICIAL",
+        "t": "c"
+    },
+    {
+        "m": "SISCONDJ--PAGAMENTO_DE_GUIA",
+        "t": "c"
+    },
+    {
+        "m": "SISCONDJ--REGRAVAÇÃO",
+        "t": "c"
+    },
+    {
+        "m": "SISCONDJ--REGRAVAÇÃO_TED-DEVOLVIDA",
+        "t": "c"
+    },
+    {
+        "m": "SISCONDJ-CONSULTA-SALDO",
+        "t": "c"
+    },
+    {
+        "m": "SISCONDJ-IMPOSS_LIBERAÇÃO_VALOR_ATUALIZADO",
+        "t": "c"
+    },
+    {
+        "m": "SISCONDJ-JUNTADA-COMPROVANTE",
+        "t": "c"
+    },
+    {
+        "m": "SISCONDJ-PRAZO-EXPIRADO",
+        "t": "c"
+    },
+    {
+        "m": "SISCONDJ-TED_DEVOLVIDA",
+        "t": "c"
+    },
+    {
+        "m": "SISCONDJ-VALOR-EM-OUTRO_ÓRGÃO",
+        "t": "c"
+    },
+    {
+        "m": "SISCONDJ-VALOR-ÓRGÃO-INEXISTENTE",
+        "t": "c"
+    },
+    {
+        "m": "SISCONDJ-VALOR_NÃO_DISPONÍVEL-SISBAJUD",
+        "t": "c"
+    },
+    {
+        "m": "SISCONDJ-VINCULAÇÃO_CONTA",
+        "t": "c"
+    },
+    {
+        "m": "SUSPENSAO_PC03/21",
+        "t": "c"
+    },
+    {
+        "m": "Tempestividade_Embargo_EXEC",
+        "t": "c"
+    },
+    {
+        "m": "Teor da Decisão",
+        "t": "c"
+    },
+    {
+        "m": "VINCULAÇÃO_MAGISTRADO",
+        "t": "c"
+    },
+    {
+        "m": "D_POSTAL_GRAT_02_22_CM",
+        "t": "c"
+    },
+    {
+        "m": "DESP_POSTAL_PEND",
+        "t": "c"
+    },
+    {
+        "m": "CGA_FINALIZAR",
+        "t": "c"
+    },
+    {
+        "m": "CGA_PROV_CM_03/2022",
+        "t": "c"
+    },
+    {
+        "m": "DESPESAS_RECOLHIDAS",
+        "t": "c"
+    },
+    {
+        "m": "Juntada-Guia-Parcelamento",
+        "t": "c"
+    },
+    {
+        "m": "Juntada_de_Guia_Lei 17.116",
+        "t": "c"
+    },
+    {
+        "m": "Justiça_Gratuita",
+        "t": "c"
+    },
+    {
+        "m": "NÃO_PAGAMENTO",
+        "t": "c"
+    },
+    {
+        "m": "não_pgto_após_intim_Lei_17.116",
+        "t": "c"
+    },
+    {
+        "m": "NÃO_UTILIZAÇÃO",
+        "t": "c"
+    },
+    {
+        "m": "PGE_Cálculos_Guia_LEIS_ANTIGAS",
+        "t": "c"
+    },
+    {
+        "m": "PGE_ENVIO-EMAIL",
+        "t": "c"
+    },
+    {
+        "m": "PGE_Planilha_LEI_17.116",
+        "t": "c"
+    },
+    {
+        "m": "UTILIZAÇÃO",
+        "t": "c"
+    },
+    {
+        "m": "Junt_Guia_Leis_Antigas",
+        "t": "c"
+    },
+    {
+        "m": "Juntada_Guia_CS",
+        "t": "c"
+    },
+    {
+        "m": "PGE_Guia_20%_Lei 17.116",
+        "t": "c"
+    },
+    {
+        "m": "REMESSA_CONTADORIA",
+        "t": "c"
+    },
+    {
+        "m": "CUSTAS_Juntada_Guia_REVEL_PUB_DJE_Leis Antigas",
+        "t": "c"
+    },
+    {
+        "m": "CUSTAS_Juntada_Guia_REVEL_PUBLICAÇÃO_DJE",
+        "t": "c"
+    },
+    {
+        "m": "DJEN-PUBLICAÇÃO_ATOS+DECURSO_PRAZO",
+        "t": "c"
+    },
+    {
+        "m": "DJEN_ERRO_NAO_PUBLICADO",
+        "t": "c"
+    },
+    {
+        "m": "DJEN_ERRO_SIM_PUBLICADO",
+        "t": "c"
+    },
+    {
+        "m": "AUSÊNCIA_EE",
+        "t": "c"
+    },
+    {
+        "m": "AUSÊNCIA_IMPUGNAÇÃO",
+        "t": "c"
+    },
+    {
+        "m": "CONCLUSÃO CEMANDO ORD NOS AUTOS",
+        "t": "c"
+    },
+    {
+        "m": "FINAL-TRANSI+ARQ",
+        "t": "ct"
+    },
+    {
+        "m": "FINAL-TRANSI+ARQ_ART.1000_CUSTAS_PAG",
+        "t": "ct"
+    },
+    {
+        "m": "FINAL-TRANSI+ARQ_ART.1000_GRAT",
+        "t": "ct"
+    },
+    {
+        "m": "FINAL-TRANSI+ARQ_CUSTAS-PAG",
+        "t": "ct"
+    },
+    {
+        "m": "FINAL-TRANSI+ARQ_GRATUIDADE",
+        "t": "ct"
+    },
+    {
+        "m": "FINAL-TRANSI+ARQ_PAG_VOLUNTÁRIO_ CUMSEM",
+        "t": "ct"
+    },
+    {
+        "m": "FINAL-TRANSI-ARQ-CANCEL_DISTR-ART.290",
+        "t": "ct"
+    },
+    {
+        "m": "FINAL-TRANSI_ART1000_CUSTAS-NÃO-PAG",
+        "t": "ct"
+    },
+    {
+        "m": "FINAL-TRANSI_CUSTAS-NÃO-PAG",
+        "t": "ct"
+    },
+    {
+        "m": "FINAL-TRANSITO_JULGADO",
+        "t": "ct"
+    },
+    {
+        "m": "REMESSA_TRANS-JULGADO_PEND",
+        "t": "ct"
+    },
+    {
+        "m": "CUSTAS-Ofício_PGE_EMAIL",
+        "t": "o"
+    },
+    {
+        "m": "DFM-Ofício-1ºPROTESTO",
+        "t": "o"
+    },
+    {
+        "m": "DFM-Ofício-2ºPROTESTO",
+        "t": "o"
+    },
+    {
+        "m": "DFM-Ofício-3ºPROTESTO",
+        "t": "o"
+    },
+    {
+        "m": "DFM-Ofício-SERASA",
+        "t": "o"
+    },
+    {
+        "m": "DFM-Ofício-SPC",
+        "t": "o"
+    },
+    {
+        "m": "DFM_Ofício - REFORÇO POLICIAL",
+        "t": "o"
+    },
+    {
+        "m": "DFM_OFÍCIO_GENÈRICO",
+        "t": "o"
+    },
+    {
+        "m": "Ofício-COMISSÃO_REGIONAL_SOLUÇÕES_FUNDIÁRIAS",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_1ºPROTESTO",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_2ºPROTESTO",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_3ºPROTESTO",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_CAIXA_INTERESSE",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_CEMANDO",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_COMUNICAÇÃO-SENTENÇA-2ºGRAU",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_CONFLITO_DE_COMPETÊNCIA",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_Cumprimento Carta Precatória",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_GENÉRICO",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_penhora_rosto_autos",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_PGJ_responsabilidade criminal",
+        "t": "o"
+    },
+    {
+        "m": "Oficio_PRECATÓRIO",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_REFORÇO_POLICIAL",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_REMESSA_INCOMPETÊNCIA",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_SERASA_EXCLUSÃO",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_SERASA_INCLUSÃO",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_SISCONDJ-DEFERIDA-VINCULAÇÃO-DE-CONTA",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_SISCONDJ-INFORM_VARA-CONTA-TRANSFERIDA",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_SISCONDJ-SOLICITA-VINCULAÇÃO-DE-CONTA",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_SPC",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_SUSPEIÇÃO_IMPEDIMENTO",
+        "t": "o"
+    },
+    {
+        "m": "OFÍCIO_TRANSF",
+        "t": "o"
+    },
+    {
+        "m": "OFÍCIO_TRANSF_CAIXA_SAÚDE",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_VISTORIA-IMÓVEL SFH",
+        "t": "o"
+    },
+    {
+        "m": "VETE-Ofício_Carta_Precatória_sem_Resposta",
+        "t": "o"
+    },
+    {
+        "m": "OFÍCIO-PRES-AUTORIZAÇÃO-PERÍCIA-SIAJUS",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_1º REGISTRO IMÓVEIS",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_2º REGISTRO IMÓVEIS",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_3º REGISTRO IMÓVEIS",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_4º REGISTRO IMÓVEIS",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_5º REGISTRO IMÓVEIS",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_6º REGISTRO IMÓVEIS",
+        "t": "o"
+    },
+    {
+        "m": "Ofício_7º REGISTRO IMÓVEIS",
+        "t": "o"
+    },
+    {
+        "m": "ofício_RPV_advogado",
+        "t": "o"
+    },
+    {
+        "m": "ofício_RPV_exequente",
+        "t": "o"
+    }
+]
